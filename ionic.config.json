@@ -1,0 +1,7 @@
+{
+  "name": "EJBD",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
